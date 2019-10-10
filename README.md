@@ -5,6 +5,11 @@ NVBit is covered by the same End User License Agreement as that of the
 NVIDIA CUDA Toolkit. By using NVBit you agree to End User License Agreement
 described in the EULA.txt file.
 
+NVBit is not part of the official CUDA toolkit, but instead is a research prototype from the Architecture Research Group at NVIDIA and as such is provided as-is with no guarantee of support.
+
+You can download NVBit binary under "release".
+
+
 ## Introduction
 NVBit (NVidia Binary Instrumentation Tool) is a research prototype of a dynamic 
 binary instrumentation library for NVIDIA GPUs.
@@ -37,7 +42,7 @@ for compute (tested with CUDA and OpenACC) under x86-64 and PPC64 Linux.
 
 ## Getting Started with NVBit
 
-NVBit is provided in a .tgz file (available under "release") containing this README file and three folders:
+NVBit is provided in a .tgz file containing this README file and three folders:
 1. A ```core``` folder, which contains the main static library 
 ```libnvbit.a``` and various headers files (among which the ```nvbit.h``` 
 file which contains all the main NVBit APIs declarations).
