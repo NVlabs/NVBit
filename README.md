@@ -7,8 +7,9 @@ described in the EULA.txt file.
 
 NVBit is not part of the official CUDA toolkit, but instead is a research prototype from the Architecture Research Group at NVIDIA and as such is provided as-is with no guarantee of support.
 
-You can download NVBit at https://github.com/NVlabs/NVBit/releases.
+You can downlaod NVBit at https://github.com/NVlabs/NVBit/releases 
 
+You can find NVBit's paper, published at the IEEE MICRO 2019 conference, at https://github.com/NVlabs/NVBit/releases/download/v1.0/MICRO_19_NVBit.pdf 
 
 ## Introduction
 NVBit (NVidia Binary Instrumentation Tool) is a research prototype of a dynamic 
