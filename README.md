@@ -1,4 +1,4 @@
-# You can download NVBit at https://github.com/NVlabs/NVBit/releases 
+# NVBit is released as an artifact via github, you can download it at: https://github.com/NVlabs/NVBit/releases 
 
 # You can find NVBit's paper, published at the IEEE MICRO 2019 conference, at https://github.com/NVlabs/NVBit/releases/download/v1.0/MICRO_19_NVBit.pdf 
 
