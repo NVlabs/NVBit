@@ -43,7 +43,7 @@ used (i.e. nvcc, pgicc, etc).
 
 ## Requirements
 
-* SM compute capability:              >= 3.5 && SM <= 7.0
+* SM compute capability:              >= 3.5 && <= 7.0
 * Host CPU:                           x86_64, ppc64le
 * OS:                                 Linux
 * GCC version:                        >= 5.3.0
