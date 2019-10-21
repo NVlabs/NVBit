@@ -47,7 +47,7 @@ used (i.e. nvcc, pgicc, etc).
 * Host CPU:                           x86\_64, ppc64le
 * OS:                                 Linux
 * GCC version:                        >= 5.3.0
-* CUDA version:                       <= 10.1
+* CUDA version:                       >= 8.0 && <= 10.1
 * CUDA driver version:                <= 430.31
 
 Currently no Embedded GPUs or ARM hosts are supported.
