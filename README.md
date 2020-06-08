@@ -43,12 +43,12 @@ used (i.e. nvcc, pgicc, etc).
 
 ## Requirements
 
-* SM compute capability:              >= 3.5 && <= 7.2
+* SM compute capability:              >= 3.5 && <= 8.0
 * Host CPU:                           x86_64, ppc64le, arm64
 * OS:                                 Linux
 * GCC version:                        >= 5.3.0
-* CUDA version:                       >= 8.0 && <= 10.2
-* CUDA driver version:                <= 440.64
+* CUDA version:                       >= 8.0 && <= 11
+* CUDA driver version:                <= 450.36
 * nvcc version for tool compilation   >= 10.2
 
 ARM64 version is tested on Jetson TX2 and Jetson Nano with JetPack 4.4.
