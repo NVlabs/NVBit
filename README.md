@@ -2,6 +2,9 @@ NVBit is released as an artifact via github, it can be downloaded at: https://gi
 
 A paper describing NVBit was published at MICRO 2019 and it can be found at: https://github.com/NVlabs/NVBit/releases/download/v1.0/MICRO_19_NVBit.pdf
 
+For business inquiries, please contact researchinquiries@nvidia.com
+
+For press and other inquiries, please contact Hector Marinez at hmarinez@nvidia.com
 
 
 # NVBit (NVidia Binary Instrumentation Tool)
@@ -52,3 +55,4 @@ used (i.e. nvcc, pgicc, etc).
 * nvcc version for tool compilation   >= 10.2
 
 ARM64 version is tested on Jetson TX2 and Jetson Nano with JetPack 4.4.
+
