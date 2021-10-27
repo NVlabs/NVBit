@@ -2,10 +2,7 @@ NVBit is released as an artifact via github, it can be downloaded at: https://gi
 
 A paper describing NVBit was published at MICRO 2019 and it can be found at: https://github.com/NVlabs/NVBit/releases/download/v1.0/MICRO_19_NVBit.pdf
 
-For business inquiries, please contact researchinquiries@nvidia.com
-
-For press and other inquiries, please contact Hector Marinez at hmarinez@nvidia.com
-
+For business inquiries, please visit our website and submit the form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquiries/)
 
 # NVBit (NVidia Binary Instrumentation Tool)
 NVIDIA Corporation
