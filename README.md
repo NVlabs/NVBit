@@ -47,8 +47,8 @@ used (i.e. nvcc, pgicc, etc).
 * Host CPU:                           x86_64, ppc64le, arm64
 * OS:                                 Linux
 * GCC version:                        >= 5.3.0
-* CUDA version:                       >= 8.0 && <= 11
-* CUDA driver version:                <= 450.36
+* CUDA version:                       >= 8.0 && <= 11.x
+* CUDA driver version:                <= 495.xx
 * nvcc version for tool compilation   >= 10.2
 
 ARM64 version is tested on Jetson TX2 and Jetson Nano with JetPack 4.4.
