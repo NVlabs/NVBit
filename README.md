@@ -1,6 +1,6 @@
 # Announcement
 
-We are anticipating a new major release of NVBit that will come out in the near future, current bugs are going to to be deferred until after that release.
+We are anticipating a new major release of NVBit that will come out in the near future, current bugs are going to be deferred until after that release.
 
 ----
 NVBit is released as an artifact via github, it can be downloaded at: https://github.com/NVlabs/NVBit/releases
