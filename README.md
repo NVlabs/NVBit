@@ -1,6 +1,6 @@
 # Announcement
 
-We are anticipating a new major release of NVBit that will come out in the near future, current bugs are going to be deferred until after that release.
+NVBit 1.7 is released and contains several breaking changes. Please check the change log carefully.
 
 ----
 NVBit is released as an artifact via github, it can be downloaded at: https://github.com/NVlabs/NVBit/releases
@@ -48,12 +48,12 @@ used (i.e. nvcc, pgicc, etc).
 
 ## Requirements
 
-* SM compute capability:              >= 3.5 && <= 8.6
-* Host CPU:                           x86_64, ppc64le, arm64
+* SM compute capability:              >= 3.5 && <= 9.2
+* Host CPU:                           x86_64, aarch64
 * OS:                                 Linux
-* GCC version:                        >= 5.3.0
-* CUDA version:                       >= 8.0 && <= 11.x
-* CUDA driver version:                <= 495.xx
+* GCC version:                        >= 5.3.0 for x86_64; >= 7.4.0 for aarch64
+* CUDA version:                       >= 12.0
+* CUDA driver version:                <= 555.xx
 * nvcc version for tool compilation   >= 10.2
 
 ARM64 version is tested on Jetson TX2 and Jetson Nano with JetPack 4.4.
