@@ -1,4 +1,7 @@
 # Announcement
+We are working to enhance NVBit development and gain insights into its user base to better estimate the additional resources needed. Please take a moment to fill out this survey: [https://forms.cloud.microsoft/r/zd1Kx3g8iQ](https://forms.cloud.microsoft/r/zd1Kx3g8iQ) and share it with any NVBit users you know. Your input is greatly appreciated—thank you!
+
+----
 
 NVBit 1.7 is released and contains several breaking changes. Please check the change log carefully.
 
