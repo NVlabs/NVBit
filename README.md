@@ -51,13 +51,11 @@ used (i.e. nvcc, pgicc, etc).
 
 ## Requirements
 
-* SM compute capability:              >= 3.5 && <= 9.2
+* SM compute capability:              >= 3.5 && <= 12.1
 * Host CPU:                           x86_64, aarch64
 * OS:                                 Linux
-* GCC version:                        >= 5.3.0 for x86_64; >= 7.4.0 for aarch64
+* GCC version:                        >= 8.5.0 for x86_64; >= 8.5.0 for aarch64
 * CUDA version:                       >= 12.0
-* CUDA driver version:                <= 555.xx
+* CUDA driver version:                <= 575.xx
 * nvcc version for tool compilation   >= 10.2
-
-ARM64 version is tested on Jetson TX2 and Jetson Nano with JetPack 4.4.
 
