@@ -57,5 +57,5 @@ used (i.e. nvcc, pgicc, etc).
 * GCC version:                        >= 8.5.0 for x86_64; >= 8.5.0 for aarch64
 * CUDA version:                       >= 12.0
 * CUDA driver version:                <= 575.xx
-* nvcc version for tool compilation   >= 10.2
+* nvcc version for tool compilation   >= 12.0
 
